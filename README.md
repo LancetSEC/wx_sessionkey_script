@@ -1,1 +1,1 @@
-# 输入session_key&&encryptedData&&iv自动输入加密程序实现现现微信小程序任意用户登录
+# 输入session_key&&encryptedData&&iv自动进入加解密程序，现代段小程序任意用户登录
